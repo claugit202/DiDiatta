@@ -1,0 +1,37 @@
+.travail {
+   text-align: center;
+   padding: 100px;
+   color: deeppink;
+  }
+
+
+  img {
+    animation: spin 2s linear infinite;
+  }
+  *h1,h3{
+    animation: spin 2s linear infinite ;
+  }
+
+
+  @keyframes spin {
+    from { transform: rotate(1deg); }
+    to { transform: rotate(360deg); }
+    
+    
+}
+
+
+
+
+
+  
+  
+
+    
+
+
+
+
+
+   
+
